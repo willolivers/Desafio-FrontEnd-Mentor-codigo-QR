@@ -50,5 +50,5 @@ Nesse projeto me fez querer var mais de CSS e SASS para ter um melhor desempenho
 
 ## Author
 
-- Github - [Add your name here](https://github.com/willolivers)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/willolivers)
+- Github - [willolivers](https://github.com/willolivers)
+- Frontend Mentor - [@willolivers](https://www.frontendmentor.io/profile/willolivers)
